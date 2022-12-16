@@ -1,7 +1,6 @@
-  push 5
- push 3
-     pall
- 	 push 1
-	pall
- 	push 0
-push 1f
+push 1
+push 2
+push 10
+push 3
+sub
+pall
