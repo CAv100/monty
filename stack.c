@@ -1,5 +1,4 @@
 #include "monty.h"
-
 /**
  * _stack - select stack mode (default).
  * @stack: double pointer to header (top) of the stack.
